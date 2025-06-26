@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/singh/OneDrive/Desktop/Digital-Nurture4.0-JavaFSE-6376712/Week_2/PLSQL_Programming/1_Control_Structures/Code",
+      "program": "c:/Users/singh/OneDrive/Desktop/Digital-Nurture4.0-JavaFSE-6376712/Week_2/PLSQL_Programming/1_Control_Structures/Code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
